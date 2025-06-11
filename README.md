@@ -3,6 +3,9 @@
 - ### **<a href="https://docs.google.com/presentation/d/e/2PACX-1vSOeguXJS_AfKpHdxS1aU91XQ6fN7ubknc80qwXzB1_XghMbnyuQ6Ftecd9vGKrow/pub?start=false&loop=false&delayms=60000"> Click Here</a> for ppt.**
 - ### Go the last slide for the assignment
 
+![image](https://github.com/user-attachments/assets/e1fb10d1-29e3-4a4d-aad9-171c0123eb80)
+
+
 - # 14 Dataset Sources for Machine Learning and Deep Learning
 
 14 free dataset sources for Machine Learning and Deep Learning applications
