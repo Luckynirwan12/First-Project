@@ -4,6 +4,7 @@
 - ### Go the last slide for the assignment
 
 
+![image](https://github.com/user-attachments/assets/a031f6d5-c515-456d-ac24-b1a9410b7223)
 
 
 - # 14 Dataset Sources for Machine Learning and Deep Learning
